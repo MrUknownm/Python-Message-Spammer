@@ -8,7 +8,7 @@ import time
 #Spammer
 time.sleep(4)
 while True:
-    auto.write('DEN PAIRNEI H AEK PROTA8LIME MIRI') #Text it spams
+    auto.write('hello') #Text
     auto.press('enter')
     time.sleep(1)
 
