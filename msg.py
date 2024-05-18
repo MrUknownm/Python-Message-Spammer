@@ -11,4 +11,3 @@ while True:
     auto.write('hello') #Text
     auto.press('enter')
     time.sleep(1)
-
